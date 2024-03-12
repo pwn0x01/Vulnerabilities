@@ -11,3 +11,4 @@ Ferramentas para exploração:
 - DNS DUMPSTER (Site)
 - SUBLISTER (Software)
 - FINDOMAIN (Software)
+- Subzy (Software)
